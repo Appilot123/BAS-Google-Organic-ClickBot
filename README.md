@@ -1,5 +1,14 @@
 <h1 align="center">BAS Google Organic ClickBot</h1>
 
+## Project Overview:
+This project simulates human-like organic search behavior on Google using **Browser Automation Studio** (BAS). It mimics realistic user actions like typing queries, clicking multiple results, scrolling through pages, and even bouncing between sites — all while maintaining a stealthy footprint. The goal? To manipulate SERP engagement metrics and simulate genuine user interaction for SEO experiments, behavioral analytics, or affiliate traffic.
+
+
+## Core Features:
+- **Highly Human-Like Behavior:** Mimics random mouse movements, scroll depths, dwell times, and search result clicks across multiple pages.
+- **Stealth Browsing & Proxy Rotation:** Uses advanced browser spoofing and rotating residential proxies to avoid detection by Google.
+- **Flexible & Scalable Automation:** Built on BAS with customizable modules for input keywords, URLs, time-on-site, and click depth.
+
 <div align="center">
   <img
     src="https://github.com/user-attachments/assets/d200549d-7613-446f-a43b-19a4117ca360"
@@ -62,15 +71,6 @@
 <span>
 
 <div align="left">
-
-## Project Overview:
-This project simulates human-like organic search behavior on Google using **Browser Automation Studio** (BAS). It mimics realistic user actions like typing queries, clicking multiple results, scrolling through pages, and even bouncing between sites — all while maintaining a stealthy footprint. The goal? To manipulate SERP engagement metrics and simulate genuine user interaction for SEO experiments, behavioral analytics, or affiliate traffic.
-
-
-## Core Strengths:
-- **Highly Human-Like Behavior:** Mimics random mouse movements, scroll depths, dwell times, and search result clicks across multiple pages.
-- **Stealth Browsing & Proxy Rotation:** Uses advanced browser spoofing and rotating residential proxies to avoid detection by Google.
-- **Flexible & Scalable Automation:** Built on BAS with customizable modules for input keywords, URLs, time-on-site, and click depth.
 
 ## Features List:
 | Feature                 | Description                                                                |
